@@ -8,9 +8,6 @@ new Set([1,1,2,2,3,4])
 //Originally forgot the curly braces and used [] instead
 {1, 2, 3, 4}
 
-
-
-
 //Quick Question 2
 //What does the following code return?
 [...new Set("referee")].join("")
@@ -18,9 +15,6 @@ new Set([1,1,2,2,3,4])
 //my answer:
 //I was a little confused with it being an array or not
 'ref'
-
-
-
 
 //Quick Question 3
 //What does the Map m look like after running the following code?
