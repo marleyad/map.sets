@@ -1,5 +1,5 @@
 console.log('Pig, Horse, Dog')
-
+  
 //Quick Question 1
 //What does this code return?
 new Set([1,1,2,2,3,4])
